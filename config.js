@@ -14,7 +14,7 @@ var config = {
             alignment: 'left',
             title: '',
             image: 'slr.png',
-            description: '[TODO] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            description: 'A recent NOAA study announced a chilling finding - that by the year 2050, coastal areas across the United States will be dealing with over a foot of sea level rise. Much of this water comes from melting glaciers, which store nearly 70% of the world\'s fresh water. This study shows how one glacier has changed due to the ever-worsening effects of climate change, and how we can use data science to better understand these changes. ',
             location: {
                 center: [-97.54880, 38.91349],
                 zoom: 3.86,

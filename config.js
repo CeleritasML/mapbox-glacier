@@ -29,7 +29,7 @@ var config = {
             alignment: 'right',
             title: 'Taku Glacier Overview',
             image: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Taku_Glacier_1992.jpg',
-            description: '[TODO] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            description: 'Taku Glacier is part of the Juneau Icefield in Alaska. It is both the deepest and thickest alpine temperate glacier in the world, which makes it the topic of frequent research studies. It is also a reletively accessible location for field studies, due to both its proximity to the city of Juneau, Alaska, and its status as one of the southernmost tidewater glaciers in the Northern Hemisphere. The Juneau Icefield Research Program (JIRP) has a long history of recording changes to the glacier\'s extent and thickness, continuously monitoring the glacier since 1946. ',
             location: {
                 center: [-134.00918, 58.48176],
                 zoom: 8.83,

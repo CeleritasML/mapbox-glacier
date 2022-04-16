@@ -4,7 +4,7 @@ var config = {
     showMarkers: false,
     theme: 'light',
     use3dTerrain: true,
-    title: '[TODO] Title',
+    title: 'Taku Glacier: 30 Years of Glacial Recession',
     // subtitle: 'Subtitle',
     // byline: 'Byline here',
     footer: '[TODO] Source: Story text from Wikipedia, August 2019. Data from <a href="https://www.usgs.gov/centers/norock/science/retreat-glaciers-glacier-national-park">USGS</a>',

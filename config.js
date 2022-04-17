@@ -96,7 +96,7 @@ var config = {
             alignment: 'left',
             title: 'Taku Glacier, 1986',
             image: './process.png',
-            description: 'The advent of satellite imaging presents a better paradigm for tracking glacier change over time. Imagery can be obtained from vendors easily and quickly, almost completely removing the need for teams to conduct the often dangerous, expensive, and time-consuming physical surveys of a glacier. To highlight the capabilities of satellite imagery for measuring glacial recession, we show how imagery from <a href="https://landsat.gsfc.nasa.gov/">LANDSAT</a> and <a href="https://sentinel.esa.int/web/sentinel/missions/sentinel-2">Sentinal-2</a> can help us track glacier recession on Taku. The blue polygon to the right shows the extent of Taku glacier in 1986, digitized from satellite imagery.',
+            description: 'The advent of satellite imaging presents a better paradigm for tracking glacier change over time. Imagery can be obtained from vendors easily and quickly, almost completely removing the need for teams to conduct the often dangerous, expensive, and time-consuming physical surveys of a glacier. To highlight the capabilities of satellite imagery for measuring glacial recession, we show how imagery from <a href="https://landsat.gsfc.nasa.gov/">LANDSAT</a> and <a href="https://sentinel.esa.int/web/sentinel/missions/sentinel-2">Sentinal-2</a> can help us track glacier recession on Taku. The blue polygon to the right shows the extent of Taku glacier in 1986, created by overlaying and digitizing historic imagery of the glacier, as shown above.',
             location: {
                 center: [-134.091, 58.435],
                 zoom: 11.41,
@@ -161,7 +161,7 @@ var config = {
             alignment: 'left',
             title: 'Taku Glacier, 2011',
             image: '',
-            description: 'We can compare the extent of the glacier in 1986 to the digitized extent of the glacier in 2011, shown in yellow. Visualizations like these enable researchers to quickly gain both a figurative and literal birds-eye view of the glacier\'s evolution, tracking the recession of different parts of the glacier\'s terminus.  ',
+            description: 'We can compare the extent of the glacier in 1986 to the digitized extent of the glacier in 2011, shown in yellow. Visualizations like these enable researchers to quickly gain both a figurative and literal birds-eye view of the glacier\'s evolution, tracking the recession of different parts of the glacier\'s terminus. For instance, we can see a significant amount of recession on the far east side of the terminus, while other areas have stayed reletively constant, and in some cases, even advanced slightly.  ',
             location: {
                 center: [-134.091, 58.435],
                 zoom: 11.41,

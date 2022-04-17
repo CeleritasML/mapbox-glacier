@@ -161,10 +161,10 @@ var config = {
             alignment: 'left',
             title: 'Taku Glacier, 2011',
             image: '',
-            description: 'We can compare the extent of the glacier in 1986 to the digitized extent of the glacier in 2011, shown in Yellow. ',
+            description: 'We can compare the extent of the glacier in 1986 to the digitized extent of the glacier in 2011, shown in yellow. Visualizations like these enable researchers to quickly gain both a figurative and literal birds-eye view of the glacier\'s evolution, tracking the recession of different parts of the glacier\'s terminus.  ',
             location: {
                 center: [-134.071, 58.435],
-                zoom: 9.41,
+                zoom: 11.41,
                 pitch: 15.00,
                 bearing: 0.00
             },
@@ -229,7 +229,7 @@ var config = {
             description: '[TODO] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             location: {
                 center: [-134.071, 58.435],
-                zoom: 12.41,
+                zoom: 11.41,
                 pitch: 15.00,
                 bearing: 0.00
             },

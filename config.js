@@ -96,7 +96,7 @@ var config = {
             alignment: 'left',
             title: 'Taku Glacier, 1986',
             image: '',
-            description: 'The advent of satellite imaging presents a better paradigm for tracking glacier change over time. Imagery can be obtained from vendors easily and quickly, almost completely removing the need for teams to conduct the often dangerous, expensive, and time-consuming physical surveys of a glacier. To highlight the capabilities of satellite imagery for measuring glacial recession, we show how imagery from <a href="https://landsat.gsfc.nasa.gov/">LANDSAT</a> and <a href="https://sentinel.esa.int/web/sentinel/missions/sentinel-2">Sentinal-2</a> can help us track glacier recession on Taku.',
+            description: 'The advent of satellite imaging presents a better paradigm for tracking glacier change over time. Imagery can be obtained from vendors easily and quickly, almost completely removing the need for teams to conduct the often dangerous, expensive, and time-consuming physical surveys of a glacier. To highlight the capabilities of satellite imagery for measuring glacial recession, we show how imagery from <a href="https://landsat.gsfc.nasa.gov/">LANDSAT</a> and <a href="https://sentinel.esa.int/web/sentinel/missions/sentinel-2">Sentinal-2</a> can help us track glacier recession on Taku. The blue polygon to the right shows the extent of Taku glacier in 1986, digitized from satellite imagery.',
             location: {
                 center: [-134.071, 58.435],
                 zoom: 11.41,
@@ -161,10 +161,10 @@ var config = {
             alignment: 'left',
             title: 'Taku Glacier, 2011',
             image: '',
-            description: '[TODO] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            description: 'We can compare the extent of the glacier in 1986 to the digitized extent of the glacier in 2011, shown in Yellow. ',
             location: {
                 center: [-134.071, 58.435],
-                zoom: 12.41,
+                zoom: 9.41,
                 pitch: 15.00,
                 bearing: 0.00
             },

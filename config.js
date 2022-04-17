@@ -98,7 +98,7 @@ var config = {
             image: '',
             description: 'The advent of satellite imaging presents a better paradigm for tracking glacier change over time. Imagery can be obtained from vendors easily and quickly, almost completely removing the need for teams to conduct the often dangerous, expensive, and time-consuming physical surveys of a glacier. To highlight the capabilities of satellite imagery for measuring glacial recession, we show how imagery from <a href="https://landsat.gsfc.nasa.gov/">LANDSAT</a> and <a href="https://sentinel.esa.int/web/sentinel/missions/sentinel-2">Sentinal-2</a> can help us track glacier recession on Taku. The blue polygon to the right shows the extent of Taku glacier in 1986, digitized from satellite imagery.',
             location: {
-                center: [-134.171, 58.435],
+                center: [-134.091, 58.435],
                 zoom: 11.41,
                 pitch: 15.00,
                 bearing: 0.00

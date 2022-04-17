@@ -226,7 +226,7 @@ var config = {
             alignment: 'left',
             title: 'Taku Glacier, 2021',
             image: '',
-            description: '[TODO] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            description: 'In 2021 we see more pronounced recession in the more western edges of the terminus. The eastern portions seem reletively untouched during this time period. However, when compared to Taku\'s extent in 1986, the glacier has lost significant area across its terminus. <br><br> Digitizing glacial extents in the manner done in these images is a useful tool for communicating broad trends in glacier advance and retreat, and serves as a queuing tool for further investigation. Visualizations like these also provide a starting point for more in-depth analysis, which can focus on volumetric analysis, incorperate hydrological information, or consider many other sources of data. For a more analytical and specific look at the details of this project, please feel free to access our poster here. ',
             location: {
                 center: [-134.091, 58.435],
                 zoom: 11.41,

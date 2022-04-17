@@ -14,7 +14,7 @@ var config = {
             alignment: 'left',
             title: '',
             image: 'slr.png',
-            description: 'A recent NOAA study announced a chilling finding - that by the year 2050, coastal areas across the United States will be dealing with over a foot of sea level rise. Much of this water comes from melting glaciers, which store nearly 70% of the world\'s fresh water. This study shows how one glacier has changed due to the ever-worsening effects of climate change, and how we can use data science to better understand these changes. ',
+            description: 'A recent NOAA study announced a chilling finding - by the year 2050, coastal areas across the United States will be dealing with over a foot of sea level rise. Much of this water comes from melting glaciers, which store nearly 70% of the world\'s fresh water. This study shows how one glacier has changed due to the ever-worsening effects of climate change, and how we can use data science to better understand these changes. ',
             location: {
                 center: [-97.54880, 38.91349],
                 zoom: 3.86,
@@ -29,7 +29,7 @@ var config = {
             alignment: 'right',
             title: 'Taku Glacier Overview',
             image: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Taku_Glacier_1992.jpg',
-            description: 'Taku Glacier is part of the Juneau Icefield in Alaska. It is both the deepest and thickest alpine temperate glacier in the world, which makes it the topic of frequent research studies. It is also a reletively accessible location for field studies, due to both its proximity to the city of Juneau, Alaska, and its status as one of the southernmost tidewater glaciers in the Northern Hemisphere. The Juneau Icefield Research Program (JIRP) has a long history of recording changes to the glacier\'s extent and thickness, continuously monitoring the glacier since 1946. ',
+            description: 'Taku Glacier is part of the Juneau Icefield in Alaska. It is both the deepest and thickest alpine temperate glacier in the world, which makes it the topic of frequent research studies. It is also a reletively accessible location for field studies, due to both its proximity to the city of Juneau, Alaska, and its status as one of the southernmost tidewater glaciers in the Northern Hemisphere. The Juneau Icefield Research Program (JIRP) has a long history of recording changes to the glacier\'s extent and thickness, continuously monitoring the glacier since 1946. Much of their work relies on <i> in situ </i> studies. These are incredibly expensive, requiring teams to traverse much of the glacier, manually recording changes across its terminus. ',
             location: {
                 center: [-134.00918, 58.48176],
                 zoom: 8.83,

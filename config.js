@@ -7,7 +7,7 @@ var config = {
     title: 'Taku Glacier: 30 Years of Glacial Recession',
     // subtitle: 'Subtitle',
     // byline: 'Byline here',
-    footer: 'Rui Qui & Daniel Cisek (2022). Data from <a href="https://www.usgs.gov/centers/norock/science/retreat-glaciers-glacier-national-park">USGS</a> and <a href="https://earthexplorer.usgs.gov/">Earth Explorer</a>',
+    footer: 'Rui Qiu & Daniel Cisek (2022). Data from <a href="https://www.usgs.gov/centers/norock/science/retreat-glaciers-glacier-national-park">USGS</a> and <a href="https://earthexplorer.usgs.gov/">Earth Explorer</a>',
     chapters: [
         {
             id: 'glacier-np',

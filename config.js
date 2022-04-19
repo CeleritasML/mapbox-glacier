@@ -29,7 +29,7 @@ var config = {
             alignment: 'right',
             title: 'Taku Glacier Overview',
             image: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Taku_Glacier_1992.jpg',
-            description: 'Taku Glacier is part of the Juneau Icefield in Alaska. It is both the deepest and thickest alpine temperate glacier in the world, which makes it the topic of frequent research studies. It is also a reletively accessible location for field studies, due to both its proximity to the city of Juneau, Alaska, and its status as one of the southernmost tidewater glaciers in the Northern Hemisphere. The Juneau Icefield Research Program (JIRP) has a long history of recording changes to the glacier\'s extent and thickness, continuously monitoring the glacier since 1946. Much of their work relies on <i> in-situ </i> studies. These are incredibly expensive, requiring teams to traverse much of the glacier, manually recording changes across its terminus. ',
+            description: 'Taku Glacier is part of the Juneau Icefield in Alaska. It is both the deepest and thickest alpine temperate glacier in the world, which makes it the topic of frequent research studies. It is also a reletively accessible location for field studies, due to both its proximity to the city of Juneau, Alaska, and its status as one of the southernmost tidewater glaciers in the Northern Hemisphere. The Juneau Icefield Research Program (JIRP) has a long history of recording changes to the glacier\'s extent and thickness, continuously monitoring the glacier since 1946. Much of their work relies on <i> in-situ </i> studies. These are incredibly expensive, requiring teams to traverse much of the glacier, manually recording changes across its terminus. Just how big is Taku? Let\'s take a look at how it compares to an area we\'re all familiar with. ',
             location: {
                 center: [-134.00918, 58.48176],
                 zoom: 8.83,
@@ -96,7 +96,7 @@ var config = {
             alignment: 'right',
             title: 'Taku Glacier in DC',
             image: '',
-            description: '4,845 feet (1,477 m) thick, 386 square miles (1000 square kilometers) in size',
+            description: 'We can compare the size of Taku Glacier to Northern Virginia & DC. Comparing it in this manner highlights why it is so difficult to measure an entire glacier, and why satellite imagery presents a great alternative for tracking glacier change. <br><br> <b>Taku Glacier</b> <ul><li>4,845 feet (1,477 m) thick</li><li>386 square miles (1000 square kilometers) in size</li></ul>',
             location: {
                 center: [-77.041, 38.7685],
                 zoom: 10.72,

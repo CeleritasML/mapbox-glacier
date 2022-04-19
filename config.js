@@ -92,6 +92,33 @@ var config = {
             ]
         },
         {
+            id: 'taku-in-dc',
+            alignment: 'right',
+            title: 'Taku Glacier in DC',
+            image: '',
+            description: '4,845 feet (1,477 m) thick, 386 square miles (1000 square kilometers) in size',
+            location: {
+                center: [-77.041, 38.7685],
+                zoom: 10.72,
+                pitch: 48,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            onChapterEnter: [
+                {
+                    layer: 'taku-in-dc',
+                    opacity: .25
+                },
+            ],
+            onChapterExit: [
+                {
+                    layer: 'taku-in-dc',
+                    opacity: .25
+                },
+            ]
+        },
+        {
             id: 'taku1986',
             alignment: 'left',
             title: 'Taku Glacier, 1986',

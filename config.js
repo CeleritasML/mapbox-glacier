@@ -94,9 +94,9 @@ var config = {
         {
             id: 'taku-in-dc',
             alignment: 'right',
-            title: 'Taku Glacier in DC',
+            title: 'Taku Glacier Vs. DC',
             image: '',
-            description: 'We can compare the size of Taku Glacier to Northern Virginia & DC. Comparing it in this manner highlights why it is so difficult to measure an entire glacier, and why satellite imagery presents a great alternative for tracking glacier change. <br><br> <b>Taku Glacier</b> <ul><li>4,845 feet (1,477 m) thick</li><li>386 square miles (1000 square kilometers) in size</li></ul>',
+            description: 'We can compare the size of Taku Glacier to Northern Virginia & DC. Comparing it in this manner highlights why it is so difficult to measure an entire glacier, and why we want to turn to satellite imagery for tracking glacier change. <br><br> <b>Characteristics:</b> <ul><li>4,845 feet (1,477 m) thick</li><li>386 square miles (1000 square kilometers) in size</li><li>Deepest and thickest alpine temperate glacier in the world</li></ul>',
             location: {
                 center: [-77.041, 38.7685],
                 zoom: 10.72,
